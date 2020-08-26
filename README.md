@@ -1,3 +1,3 @@
 # my-test
 
-Zmena od Premka
+Zmena 2 od Premka
