@@ -1,3 +1,3 @@
 # my-test
 
-CONFLICT
+Another change here
